@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role-playing-game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rey79-coder/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Rey79-coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rey79-coder/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Rey79-coder/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
